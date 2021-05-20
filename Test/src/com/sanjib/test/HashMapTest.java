@@ -26,6 +26,7 @@ public class HashMapTest {
 			Map.Entry m = (Map.Entry) itr.next();
 			
 			System.out.println("key= "+m.getKey()+" value= "+m.getValue());
+			System.out.println("deeksha");
 			
 		}//while()
 		
