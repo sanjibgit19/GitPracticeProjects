@@ -1,0 +1,2 @@
+# GitPracticeProjects
+ JavaMavenProject
