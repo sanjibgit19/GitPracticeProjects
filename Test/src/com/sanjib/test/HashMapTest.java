@@ -27,6 +27,7 @@ public class HashMapTest {
 			
 			System.out.println("key= "+m.getKey()+" value= "+m.getValue());
 			System.out.println("deeksha");
+			System.out.println("hey");
 			
 		}//while()
 		
