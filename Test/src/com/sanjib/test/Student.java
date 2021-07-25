@@ -7,11 +7,10 @@ public class Student {
 	public Student(String name){
 		this.stuName =name;
 	}
-	
-	
-	/*
-	 * @Override public String toString() { // TODO Auto-generated method stub
-	 * return stuName; }
-	 */
+
+	@Override
+	public String toString() {
+		return "Student [stuName=" + stuName + "]";
+	}
 	 
 }
